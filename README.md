@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Pratiksha Tripathi
 - 👀 I’m interested in Software and WEB Development.
-- 🌱 I’m currently learning Python,HTML5,CSS3,Javascipt.
+- 🌱 My technical proficiency include python, C, C++,Java..
 - 💞️ I’m currently pursuing BTech in Computer Science and Engineering.
 - 📫 How to reach me-  pratikshatripathi782@gmail.com
 
